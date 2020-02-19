@@ -1,4 +1,4 @@
-## Repo intro
+# Repo intro
 This is a repo copy from https://github.com/podgorskiy/VAE.
 I make some extension from it.
 Main difference:
@@ -11,8 +11,8 @@ Main difference:
 
 
 
-## Introduction from original repo
-# Variational Autoencoder
+# Introduction from original repo
+## Variational Autoencoder
 Example of vanilla VAE for face image generation at resolution 128x128.
 
 Auto-Encoding Variational Bayes: https://arxiv.org/abs/1312.6114
