@@ -1,3 +1,17 @@
+## Repo intro
+This is a repo copy from https://github.com/podgorskiy/VAE.
+I make some extension from it.
+Main difference:
+1. Use a dataset called wikiart.
+2. Draw the training loss.
+3. Make `options` to contral the training parameters.
+4. create `checkpoints` to store training result.
+5. Write `analyze.py` to generate images and do the interpolation by trained model.
+
+
+
+
+## Introduction from original repo
 # Variational Autoencoder
 Example of vanilla VAE for face image generation at resolution 128x128.
 
